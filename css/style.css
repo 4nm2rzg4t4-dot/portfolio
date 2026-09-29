@@ -1,0 +1,24 @@
+h1 {
+    color:#428b67 ;
+    font-size: 23px;
+    font-family:Verdana,sans-serif;
+}
+td {
+    background-color: rgb(255, 104, 114);
+} 
+.gauche {
+    background-color: #76f08a;
+}
+.annee {
+    color:#801fff;
+    font-size: 23px;
+  }
+ #menu {
+    color:#1f4e79;
+    font-weight:bold;
+    front-size: 23px;
+ }
+
+a {
+    color:#dc006a;
+ }
